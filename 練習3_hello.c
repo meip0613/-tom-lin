@@ -3,6 +3,7 @@
 
 int main (void) {
 	system ("pause");
-	printf("！！Hello Github!\n");
+	printf("Hello Github“,end1="\n")
+        os.exit()
 
 }
